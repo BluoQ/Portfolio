@@ -6,8 +6,14 @@
 
 # Past Projects:
 
-## [Compton Scattering Lab](https://bluoq.github.io/Portfolio/Testpage)
+### [Compton Scattering Lab](https://bluoq.github.io/Portfolio/Testpage)
+![alt text](Experimental_Setup.jpg)
 
+This lab focused on observing gamma radiation to explore light as both a wave and a particle, in particular the phenomenon of Compton Scattering.
+* **Python libraries used:** pandas, numpy, matplotlib, scipy
+* **Data Taken:** Radiation Intensity (Particle Counts), Channels (Energy keV)
+* **Principles/Phenomena Explored:** Inverse-Square Law, Compton Scattering, Attenuation, Particle-Wave Duality
+  
 # Nothing matters past here
 # John Doe
 *An Aspiring Data Scientist | 2X Kaggle Grandmaster*
