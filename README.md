@@ -7,7 +7,7 @@
 # Past Projects:
 
 ### [Compton Scattering Lab](https://bluoq.github.io/Portfolio/Testpage)
-![Experimental%Setup.png](Experimental%Setup.png)
+![Experimental%Setup.png](Experimental_Setup.png)
 
 This lab focused on observing gamma radiation to explore light as both a wave and a particle, in particular the phenomenon of Compton Scattering.
 * **Python libraries used:** pandas, numpy, matplotlib, scipy
