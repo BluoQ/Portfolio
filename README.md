@@ -7,7 +7,7 @@
 # Past Projects:
 
 ### [Compton Scattering Lab](https://bluoq.github.io/Portfolio/Compton%20Scattering%20Lab)
-<img src= "Experimental%20Setup.png" alt="Experimental%Setup.png" style="border: 2px solid black;">
+<img src= "Experimental%20Setup.png" alt="Experimental%Setup.png" style="border: 2 px solid black;">
 
 This lab focused on observing gamma radiation to explore light as both a wave and a particle, in particular the phenomenon of Compton Scattering.
 * **Python libraries used:** pandas, numpy, matplotlib, scipy
@@ -15,7 +15,7 @@ This lab focused on observing gamma radiation to explore light as both a wave an
 * **Principles/Phenomena Explored:** Inverse-Square Law, Compton Scattering, Attenuation, Particle-Wave Duality
 
 ### [Marketing Final Presentation](https://bluoq.github.io/Portfolio/Marketing%20Presentation)
-<img src= "pexels-fauxels-3184292.jpg" alt="Marketing Presentation jpg" style="border: 2px solid grey;">
+<img src= "pexels-fauxels-3184292.jpg" alt="Marketing Presentation jpg" style="border: 2 px solid black;">
 
 This presentation focused on developing a marketing strategy for a local business by holistically evaluating it using various marketing techniques and principles.
 * **Techniques used:** SWOT Analysis (Strengths, Weaknesses, Opportunities, and Threats), Segmentation Analysis, Positioning Maps, Graphic Design
