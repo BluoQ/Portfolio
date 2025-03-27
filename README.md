@@ -8,7 +8,7 @@
 
 ### [Compton Scattering Lab](https://bluoq.github.io/Portfolio/Compton%20Scattering%20Lab)
 ![Experimental%Setup.png](Experimental%20Setup.png)
-
+<img src= "Experimental%20Setup.png" alt="your-image-description" style="border: 2px solid grey;">
 This lab focused on observing gamma radiation to explore light as both a wave and a particle, in particular the phenomenon of Compton Scattering.
 * **Python libraries used:** pandas, numpy, matplotlib, scipy
 * **Data Taken:** Radiation Intensity (Particle Counts), Channels (Energy keV)
