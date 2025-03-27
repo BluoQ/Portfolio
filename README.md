@@ -13,3 +13,11 @@ This lab focused on observing gamma radiation to explore light as both a wave an
 * **Python libraries used:** pandas, numpy, matplotlib, scipy
 * **Data Taken:** Radiation Intensity (Particle Counts), Channels (Energy keV)
 * **Principles/Phenomena Explored:** Inverse-Square Law, Compton Scattering, Attenuation, Particle-Wave Duality
+
+* ### [Marketing Final Presentation](https://bluoq.github.io/Portfolio/Marketing%20Presentation)
+![Mission statement.png](Experimental%20Setup.png)
+
+This presentation focused on developing a marketing strategy for a local business by holistically evaluating it using various marketing techniques and principles.
+* **Techniques used:** SWOT Analysis (Strengths, Weaknesses, Opportunities, and Threats), Segmentation Analysis, Positioning Maps, Graphic Design
+* **Data Gathered:** Current Strategies, Key Competitors, Asian Cuisine Demand, Prices, Locations, Local Demographics
+* **Principles Explored:** Supply and Demand, Search Engine Optimization (SEO), Micromarketing, Cultural Shifts, Digital Marketing, Targeting
