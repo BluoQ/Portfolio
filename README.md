@@ -22,3 +22,4 @@ This presentation focused on developing a marketing strategy for a local busines
 * **Data Gathered:** Current Strategies, Key Competitors, Asian Cuisine Demand, Prices, Locations, Local Demographics
 * **Principles Explored:** Supply and Demand, Search Engine Optimization (SEO), Micromarketing, Cultural Shifts, Digital Marketing, Targeting
 
+<META HTTP-EQUIV="EXPIRES" CONTENT= 0 >
