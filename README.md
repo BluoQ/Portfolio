@@ -15,7 +15,7 @@ This lab focused on observing gamma radiation to explore light as both a wave an
 * **Principles/Phenomena Explored:** Inverse-Square Law, Compton Scattering, Attenuation, Particle-Wave Duality
 
 ### [Marketing Final Presentation](https://bluoq.github.io/Portfolio/Marketing%20Presentation)
-![Marketing Presentation jpg](pexels-fauxels-3184292.jpg)
+<img src= "pexels-fauxels-3184292.jpg" alt="Marketing Presentation jpg" style="border: 2px solid grey;">
 
 This presentation focused on developing a marketing strategy for a local business by holistically evaluating it using various marketing techniques and principles.
 * **Techniques used:** SWOT Analysis (Strengths, Weaknesses, Opportunities, and Threats), Segmentation Analysis, Positioning Maps, Graphic Design
