@@ -1,4 +1,4 @@
-###### [back]([https://bluoq.github.io/Portfolio/Compton%20Scattering%20Lab](https://bluoq.github.io/Portfolio/))
+###### [back](https://bluoq.github.io/Portfolio/)
 ## Compton Scattering Lab
 #### For the full Jupyter Notebook click here
 
